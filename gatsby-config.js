@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `MyFirstBlog, sort of`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Ninsampla`,
       summary: `who lives and works in San Francisco building useful things.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
