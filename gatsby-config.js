@@ -3,12 +3,12 @@ module.exports = {
     title: `MyFirstBlog, sort of`,
     author: {
       name: `Ninsampla`,
-      summary: `who lives and works in San Francisco building useful things.`
+      summary: `who likes CdE acadamies, even if they happen in Cyberspace.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://serene-pasteur-d8c196.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      github: `ninsampla`
     }
   },
   plugins: [
